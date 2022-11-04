@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramanpreet4718
+- 👋 Hi, I’m @Ramanpreet Singh
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning by creating new websites
 
