@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramanpreet Singh
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning by creating new websites
+- 🌱 I’m currently persuing Full Stack Web Development Course from Masai School
 
 
 <!---
