@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Ramanpreet Singh
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently persuing Full Stack Web Development Course from Masai School
-
-
-<!---
-Ramanpreet4718/Ramanpreet4718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi there! I'm Ramanpreet Singh <img src="https://media4.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=ecf05e47gbvml5pmyegczcp6v6xvxydf2d3f66uu2hylymx7&rid=giphy.gif&ct=g" width="25px"> </h1>
 <h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
 
