@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 My Portfolio - **[Ravi Shukla](https://ravishukla.me)** -->
 
-- 🌱 I’m currently learning **React js.**
+- 🌱 I’m currently learning **Nodejs, Express and MongoDB.**
 
 - 📫 How to reach me **ramanp4718@gmail.com**
 
