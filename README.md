@@ -13,7 +13,7 @@
 
 - My Portfolio = **[Ramanpreet Singh](https://ramanpreet4718.github.io/)**
 
-- My Resume = **[Click Here]([https://ramanpreet4718.github.io/](https://drive.google.com/file/d/1284T9zGiByaYaniyJuM-kiob__qSqDIY/view?usp=share_link))**
+- My Resume = **[Click Here](https://drive.google.com/file/d/1284T9zGiByaYaniyJuM-kiob__qSqDIY/view?usp=share_link)**
 
 <br/>
 
