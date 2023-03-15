@@ -11,6 +11,10 @@
 
 - Connect with me - **[LinkedIn](www.linkedin.com/in/ramanpreet-singh-816194245)**
 
+- My Portfolio = **[Ramanpreet Singh](https://ramanpreet4718.github.io/)**
+
+- My Resume = **[Click Here]([https://ramanpreet4718.github.io/](https://drive.google.com/file/d/1284T9zGiByaYaniyJuM-kiob__qSqDIY/view?usp=share_link))**
+
 <br/>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
